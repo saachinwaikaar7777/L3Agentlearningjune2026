@@ -1,16 +1,11 @@
-# Python-generated files
+# Virtual environment
+example/Lib/
+example/Scripts/
+example/pyvenv.cfg
+example/CACHEDIR.TAG
+
+# Python
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+*.pyc
+*.pyo
 .env
-
-# Database files
-*.db
-*.db-shm
-*.db-wal
